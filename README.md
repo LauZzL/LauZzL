@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+home+page+%F0%9F%98%86;Hello+coder%2CAre+you+okey+%F0%9F%92%93;Good+lucky+to+you+%F0%9F%8E%89)](https://git.io/typing-svg)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzyAB&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sayokey&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 ## 👋About Me
