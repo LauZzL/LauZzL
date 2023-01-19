@@ -5,8 +5,9 @@
 
 ## 👋About Me
 
-- coder
-- Jay chou fans
+- 未编制的程序猿
+- 快听周杰伦
+- 有多年安保经验
 - Blog: [空城里](https://www.ilzya.com/)
 
 ## Language
