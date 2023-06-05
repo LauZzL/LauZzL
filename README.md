@@ -7,9 +7,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sayokey/count.svg)
 
 ## 👋About Me
 
-- 未编制的程序猿
-- 快听周杰伦
-- 少走40年弯路的20岁保安
+- 全栈
+- 精通多种编程语言的安装与卸载
 - 我的博客: [here](https://www.ilzya.com/)
 
 ## 🔧Languages and Tools...
