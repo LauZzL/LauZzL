@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+home+page+%F0%9F%98%86;Hello+coder%2CAre+you+okey+%F0%9F%92%93;Good+lucky+to+you+%F0%9F%8E%89)](https://git.io/typing-svg)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/xdy3/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/LauZzL/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xdy3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LauZzL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 ## 👋About Me
@@ -23,4 +23,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xdy3/count.svg) vi
 ![Spring](https://img.shields.io/badge/-Spring-00cc66?logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-00cc66?logo=springboot&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdy3&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauZzL&layout=compact&theme=tokyonight)
