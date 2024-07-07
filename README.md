@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+home+page+%F0%9F%98%86;Hello+coder%2CAre+you+okey+%F0%9F%92%93;Good+lucky+to+you+%F0%9F%8E%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+home+page)](https://git.io/typing-svg)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/LauZzL/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
